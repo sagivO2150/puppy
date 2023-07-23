@@ -28,3 +28,7 @@ func from11() string {
 func from12() string {
 	return "im from version 1.2.0"
 }
+
+func from13() string {
+	return "im from version 1.3.0"
+}
