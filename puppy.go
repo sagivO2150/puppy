@@ -24,3 +24,7 @@ func from11() string {
 	ver := "im from version 1.1.0"
 	return ver
 }
+
+func from12() string {
+	return "im from version 1.2.0"
+}
