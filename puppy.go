@@ -20,15 +20,15 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func from11() string {
+func From11() string {
 	ver := "im from version 1.1.0"
 	return ver
 }
 
-func from12() string {
+func From12() string {
 	return "im from version 1.2.0"
 }
 
-func from13() string {
+func From13() string {
 	return "im from version 1.3.0"
 }
